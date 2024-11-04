@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Farzi Mapple Store</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="https://fonts.google.com/" href="">
+    <link rel="stylesheet" href="style.css">
+    <script src="js.js"></script>
+    <link rel="shortcut icon" href="https://www.pngplay.com/wp-content/uploads/3/Apple-Logo-PNG-HD-Quality.png" type="image/x-icon">
+</head>
+<body>
+    <header>
+    <nav>
+        <ul class="menu">
+            <img src="https://www.pngplay.com/wp-content/uploads/3/Apple-Logo-PNG-HD-Quality.png" alt="Apple Logo" class="logo">
+            <li>Store</li>
+            <li>Mac</li>
+            <li>iPad</li>
+            <li>iPhone</li>
+            <li>Watch</li>
+            <li>AirPods</li>
+            <li>TV & Home</li>
+            <li>Entertainment</li>
+            <li>Accessories</li>
+            <li>Support</li>
+            <img src="https://www.pngplay.com/wp-content/uploads/15/Magnifying-Glass-Icon-PNG-Images-HD.png" alt="Search Icon" class="search-icon">
+        </ul>
+    </nav>
+</header>
+   
+<div class="store-header">
+    <h1>Store.</h1>
+    <p>The best way to buy the products you love.</p>
+</div>
+
+
+<div class="store-items">
+    <div class="item">
+        <a href="/index.html"> <!-- Link to the Apple Watch page -->
+            <button>
+                <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-watch-nav-202409?wid=400&hei=260&fmt=png-alpha&.v=1724165625838" alt="Apple Watch" loading="lazy">
+                <p>Mpple Watch</p>
+            </button>
+        </a>
+    </div>
+    <div class="item">
+        <a href="iphone.html"> <!-- Link to the iPhone page -->
+            <button>
+                <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-iphone-nav-202409_GEO_EMEA?wid=400&hei=260&fmt=png-alpha&.v=1723857138464" alt="iPhone" loading="lazy">
+                <p>iPhone</p>
+            </button>
+        </a>
+    </div>
+    <div class="item">
+        <a href="airpods.html"> <!-- Link to the AirPods page -->
+            <button>
+                <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-airpods-nav-202409?wid=400&hei=260&fmt=png-alpha&.v=1722974349822" alt="AirPods" loading="lazy">
+                <p>AirPods</p>
+            </button>
+        </a>
+    </div>
+    <div class="item">
+        <a href="airtag.html"> <!-- Link to the AirTag page -->
+            <button>
+                <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-airtags-nav-202108?wid=400&hei=260&fmt=png-alpha&.v=1625783380000" alt="AirTag" loading="lazy">
+                <p>AirTag</p>
+            </button>
+        </a>
+    </div>
+    <div class="item">
+        <a href="apple-tv.html"> <!-- Link to the Apple TV page -->
+            <button>
+                <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-appletv-nav-202210?wid=400&hei=260&fmt=png-alpha&.v=1664628458484" alt="Apple TV 4K" loading="lazy">
+                <p>Mapple TV 4K</p>
+            </button>
+        </a>
+    </div>
+    <div class="item">
+        <a href="accessories.html"> <!-- Link to the Accessories page -->
+            <button>
+                <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-accessories-nav-202409?wid=400&hei=260&fmt=png-alpha&.v=1723738892174" alt="Accessories" loading="lazy">
+                <p>Accessories</p>
+            </button>
+        </a>
+    </div>
+    <div class="item">
+        <a href="mac.html"> <!-- Link to the Mac page -->
+            <button>
+                <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-mac-nav-202310?wid=400&hei=260&fmt=png-alpha&.v=1696964122666" alt="Mac" loading="lazy">
+                <p>MAC</p>
+            </button>
+        </a>
+    </div>
+</div>
+
+<div class="text">
+    <h1>The Latest.</h1>
+            <p>Take a look at what's new right now.</p>
+</div>
+        <gpl>
+           
+            
+    <div class="ipl">
+        
+        <div class="product">
+            <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-40-iphone-16-pro-202409?wid=800&hei=1000&fmt=jpeg&qlt=90&.v=1726165763242" alt="iPhone 16 Pro">
+            <a href="your-iphone16pro-link-here" class="overlay">
+                <h2>iPhone 16 Pro</h2>
+                <p>Built for Mapple Intelligence.</p>
+                <p class="price">From ₹119900.00</p>
+            </a>
+        </div>
+        <div class="product">
+            <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-40-watch-s10-202409?wid=800&hei=1000&fmt=jpeg&qlt=90&.v=1724095131742" alt="Apple Watch Series 10">
+            <a href="your-applewatchseries10-link-here" class="overlay">
+                <h2>Mapple Watch Series 10</h2>
+                <p>Thinstant classic.</p>
+                <p class="price">From ₹46900.00</p>
+            </a>
+        </div>
+        <div class="product">
+            <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-40-ipad-mini-202410_GEO_IN?wid=800&hei=1000&fmt=jpeg&qlt=90&.v=1728400506777" alt="iPad mini">
+            <a href="your-ipadmini-link-here" class="overlay">
+                <h2>iPad mini</h2>
+                <p>Built for Mapple Intelligence.</p>
+                <p class="price">From ₹49900.00</p>
+            </a>
+        </div>
+        <div class="product">
+            <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-40-macbook-pro-202410?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1728342374593" alt="Apple Watch Series 10">
+            <a href="your-applewatchseries10-link-here" class="overlay">
+                <h2>MacBook Pro</h2>
+                <p>Built for Mapple Intelligence.</p>
+                <p class="price">From ₹169900.00</p>
+            </a>
+        </div>
+        
+    </div>
+    
+</gpl>
+    
+<div class="footer">
+    <img src="https://www.pngplay.com/wp-content/uploads/3/Apple-Logo-PNG-HD-Quality.png" alt="Apple Logo" class="logo">
+    <p>Mapple store online</p>
+    <div class="section">
+        <div>
+            <h3>Shop and Learn</h3>
+            <ul>
+                <li><a href="#">Store</a></li>
+                <li><a href="#">Mac</a></li>
+                <li><a href="#">iPad</a></li>
+                <li><a href="#">iPhone</a></li>
+                <li><a href="#">Watch</a></li>
+                <li><a href="#">AirPods</a></li>
+                <li><a href="#">TV & Home</a></li>
+                <li><a href="#">AirTag</a></li>
+                <li><a href="#">Accessories</a></li>
+                <li><a href="#">Gift Cards</a></li>
+                <li><a href="#">Mapple Wallet</a></li>
+                <li><a href="#">Wallet</a></li>
+            </ul>
+        </div>
+        <div>
+            <h3>Account</h3>
+            <ul>
+                <li><a href="#">Manage Your Mapple Account</a></li>
+                <li><a href="#">Mapple Store Account</a></li>
+                <li><a href="#">iCloud.com</a></li>
+            </ul>
+            <h3>Entertainment</h3>
+            <ul>
+                <li><a href="#">Mapple One</a></li>
+                <li><a href="#">Mapple TV+</a></li>
+                <li><a href="#">Mapple Music</a></li>
+                <li><a href="#">Mapple Arcade</a></li>
+                <li><a href="#">Mapple Podcasts</a></li>
+                <li><a href="#">Mapple Books</a></li>
+                <li><a href="#">Mapp Store</a></li>
+            </ul>
+        </div>
+        <div>
+            <h3>Mapple Store</h3>
+            <ul>
+                <li><a href="#">Find a Store</a></li>
+                <li><a href="#">Genius Bar</a></li>
+                <li><a href="#">Today at Apple</a></li>
+                <li><a href="#">Mapple Summer Camp</a></li>
+                <li><a href="#">Ways to Buy</a></li>
+                <li><a href="#">Mapple Trade In</a></li>
+                <li><a href="#">Recycling Programme</a></li>
+                <li><a href="#">Order Status</a></li>
+                <li><a href="#">Shopping Help</a></li>
+            </ul>
+        </div>
+        <div>
+            <h3>For Business</h3>
+            <ul>
+                <li><a href="#">Mapple and Business</a></li>
+                <li><a href="#">Shop for Business</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="bottom">
+        9528 Mapple Inc. All rights is not reserved. <br> You can't find an Mpple Store or other retailer near you. Do not call 9-528-MY-MPPLE.
+    </div>
+</div>
+</body>
+</html>
